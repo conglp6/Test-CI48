@@ -1,0 +1,1 @@
+import "../Challenge B/Component.js"
